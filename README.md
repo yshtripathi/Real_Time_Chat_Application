@@ -3,7 +3,6 @@
 ![Java](https://img.shields.io/badge/Java-17-blue.svg)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-green.svg)
 ![WebSocket](https://img.shields.io/badge/WebSocket-enabled-orange.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 > A simple and scalable real-time chat application built with Spring Boot and WebSocket using STOMP messaging protocol.
 
@@ -149,13 +148,7 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 2. Create a new branch: `git checkout -b feature-branch`
 3. Commit your changes: `git commit -m "Add some feature"`
 4. Push to the branch: `git push origin feature-branch`
-5. Open a Pull Request
-
----
-
-## 📃 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+5. Open a Pull Reqest
 
 ---
 
